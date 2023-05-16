@@ -1,3 +1,4 @@
+/pasosGIT.txt
 Trabajar con GIT:
 
 1-  git init
